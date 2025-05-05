@@ -25,6 +25,6 @@ Se quiser rodar o bot localmente, siga os passos abaixo:
 
 🧠 Tecnologias Utilizadas
 
-Python
-python-telegram-bot
-APIs externas para obter notícias e dados da equipe
+- Python
+- python-telegram-bot
+- APIs externas para obter notícias e dados da equipe
