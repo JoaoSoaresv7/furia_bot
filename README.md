@@ -20,6 +20,8 @@ Se quiser rodar o bot localmente, siga os passos abaixo:
 - cd furia_bot2
 - pip install -r requirements.txt
 - python nome_do_arquivo.py
+  
+# Substitua nome_do_arquivo.py pelo nome real do arquivo Python principal do seu bot (ex: bot.py).
 
 🧠 Tecnologias Utilizadas
 
